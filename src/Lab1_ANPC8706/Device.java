@@ -35,14 +35,6 @@ public class Device {
     }
 
 
-    public String getBrand() {
-        return brand;
-    }
-
-    public String getModel() {
-        return model;
-    }
-
     public boolean isPowerStatus() {
         return powerStatus;
     }
