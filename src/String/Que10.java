@@ -1,5 +1,5 @@
 package String;
-
+//nikhil
 //Write a Java program to compare two Strings using the equals() method.
 public class Que10 {
     public static void main(String[] args) {
