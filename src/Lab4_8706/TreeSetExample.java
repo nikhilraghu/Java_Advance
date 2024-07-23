@@ -1,7 +1,9 @@
+package Lab4_8706;
+
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class Lab4_8706 {
+public class TreeSetExample {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
